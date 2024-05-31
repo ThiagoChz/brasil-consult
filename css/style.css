@@ -1,0 +1,9 @@
+body{
+    background: rgb(105,154,3);
+    background: linear-gradient(90deg, rgba(105,154,3,1) 0%, rgba(19,204,84,1) 84%, rgba(0,255,175,1) 100%);
+}
+
+#svgObject{
+    width: 400%;
+    height: 100%;
+}
